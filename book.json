@@ -1,0 +1,14 @@
+{
+  "title": "设计模式系列",
+  "author": "liaozhicheng",
+  "description": "设计模式随笔记",
+  "language": "zh-hans",
+  "plugins": [
+    "disqus@^0.1.0"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "pattern-book"
+    }
+  }
+}
